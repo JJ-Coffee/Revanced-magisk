@@ -2,5 +2,5 @@
 apkmirror-dlurl = "https://apkmirror.com/apk/google-inc/youtube/"
 arch = "arm64-v8a"
 build-mode = "both"
-version = "19.43.41"
+version = "19.45.38"
 excluded-patches = "'Navigation buttons' 'Swipe controls'"
