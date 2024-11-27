@@ -5,5 +5,5 @@ parallel-jobs = 1
 apkmirror-dlurl = "https://apkmirror.com/apk/google-inc/youtube/"
 arch = "arm64-v8a"
 build-mode = "both"
-version = "19.45.38"
+version = "19.46.42"
 excluded-patches = "'Navigation buttons' 'Swipe controls'"
